@@ -1,5 +1,5 @@
-# Free-SN-Cheat-by-Piki
-The first public SN cheat by Piki after the IL2CPP update. The mod was powered by MelonLoader. </br>
+# Advanced SN Cheat by Piki
+The first public SN cheat by Piki after the IL2CPP update. The mod was powered by MelonLoader. It contains the custom GUI code that Harley stole. </br>
 The mod was released for free with an installer. </br>
 The project dates back to somewhere around December 2020.
 
